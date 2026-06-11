@@ -9,6 +9,7 @@
 
 ## Как скачать
 git clone https://github.com/MoonMint0-0/my-news-app.git
+
 cd my-news-app
 
 # Установить зависимости
